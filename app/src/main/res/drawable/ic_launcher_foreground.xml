@@ -1,0 +1,8 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Waveform bars -->
+    <path android:fillColor="#FFFFFF" android:pathData="M34,46h4v16h-4z M42,38h4v32h-4z M50,30h4v48h-4z M58,40h4v28h-4z" />
+    <!-- Play triangle -->
+    <path android:fillColor="#FFD54F" android:pathData="M66,42 L80,54 L66,66 Z" />
+</vector>
